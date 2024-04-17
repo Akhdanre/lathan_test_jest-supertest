@@ -1,4 +1,5 @@
-Anggota Kelompok
-Akhdan Robbani
-Kevin Yohanes wuryanto
-Rizki Setyo Putro Robawa
+## Anggota Kelompok
+
+- Akhdan Robbani
+- Kevin Yohanes Wuryanto
+- Rizki Setyo Putro Robawa
